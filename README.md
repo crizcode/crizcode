@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm Criz 🖐️
+### Hi there, I'm Criz 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LINKEDIN-155CAE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crizvilla/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCVoCT92w8G6Hnh-bpLoeKbg/featured)
